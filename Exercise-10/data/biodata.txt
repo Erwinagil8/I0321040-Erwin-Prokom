@@ -1,0 +1,6 @@
+Nama: win
+Umur: 19
+Alamat: Mbanyumas
+Nama: Er
+Umur: 19
+Alamat: mars
